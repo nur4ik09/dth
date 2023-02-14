@@ -347,6 +347,7 @@ body {
 
 .fon__logo__mob {
   position: absolute;
+  opacity: 0;
   width: 0px;
   height: 0px;
   left: 106px;
